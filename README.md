@@ -28,9 +28,9 @@ The notebooks cover:
 - `cic-ids2017-eda.ipynb` — EDA for CIC-IDS2017 traffic labels
 - `cyber1.ipynb` — Cyber1 labeling + sampling pipeline
 - `cyber1-eda.ipynb` — Cyber1 large-scale EDA and anomaly workflow
-- `cyber1-sampled.ipynb` — EDA and anomaly models on sampled labeled Cyber1 data
+- `cyber1-tests.ipynb` — EDA and anomaly models on sampled labeled Cyber1 data
 - `lanl-auth-eda.ipynb` — LANL auth dataset analysis, visualization, clustering, anomaly checks
-- `UNSW-NB15-EDA.ipynb` — UNSW-NB15 EDA + multiclass attack modeling
+- `UNSW-NB15-tests.ipynb` — UNSW-NB15 EDA + multiclass attack modeling
 
 ## Environment Setup (macOS / VS Code)
 
@@ -65,7 +65,9 @@ Place datasets under a structure like:
 For UNSW-NB15, the notebook can download data via `kagglehub`.
 
 LANL cyber1 dataset available [here](https://csr.lanl.gov/data/cyber1/)
+
 LANL auth dataset available [here](https://csr.lanl.gov/data/auth/)
+
 CIC-IDS2017 dataset available [here](https://cicresearch.ca/CICDataset/CIC-IDS-2017/)
 
 ## Typical Workflow
