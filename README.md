@@ -16,9 +16,9 @@ The notebooks cover:
 ## Datasets Used
 
 - **CIC-IDS2017** (`cic-ids2017-eda.ipynb`)
-- **LANL Cyber1** (`cyber1.ipynb`, `cyber1-eda.ipynb`, `cyber1-sampled.ipynb`)
+- **LANL Cyber1** (`cyber1.ipynb`, `cyber1-eda.ipynb`, `cyber1-tests.ipynb`)
 - **LANL Auth dataset variant** (`lanl-auth-eda.ipynb`)
-- **UNSW-NB15** (`UNSW-NB15-EDA.ipynb`)
+- **UNSW-NB15** (`UNSW-NB15-tests.ipynb`)
 
 > Some notebooks assume local files under `./data/...`, while others can run in Colab (Drive path supported in `cyber1-eda.ipynb`).
 
